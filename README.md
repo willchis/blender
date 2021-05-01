@@ -13,6 +13,8 @@ Blender scripts and shortcuts
 | S | Scale |
 | E | Extrude |
 | I | Inset face |
+| Shift + D   | Duplicate selection   |
 | Ctrl + R   | Loop cut        |
 | Ctrl + B | Bevel |
-| Ctrl + Shift + Mouse forward/back      | move camera forward and back (in and out).       |
+| Ctrl + Shift + MMB + Mouse forward/back      | Move camera forward and back (in and out).       |
+| X/Y/Z or shift + x/y/z (when modifying) | Lock all other axis or lock one axis |
