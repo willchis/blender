@@ -15,6 +15,7 @@ Blender scripts and shortcuts
 | R | Rotate |
 | I | Inset face |
 | Alt + LMB | Select loop |
+| F | Fill selection (useful for capping ends after loop selecting) |
 | Shift + D   | Duplicate selection   |
 | Ctrl + R   | Loop cut        |
 | Ctrl + B | Bevel |
