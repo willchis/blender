@@ -12,7 +12,9 @@ Blender scripts and shortcuts
 | G | Move |
 | S | Scale |
 | E | Extrude |
+| R | Rotate |
 | I | Inset face |
+| Alt + LMB | Select loop |
 | Shift + D   | Duplicate selection   |
 | Ctrl + R   | Loop cut        |
 | Ctrl + B | Bevel |
